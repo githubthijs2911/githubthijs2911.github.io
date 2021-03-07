@@ -74,26 +74,3 @@ p
     text-color: white
 }
 
-#outer2
-{
-    float: right;
-    position: static;
-    margin-right: 150px;
-    margin-top: 600px;
-}
-#kopje1
-{
-    float: left;
-    position: absolute;
-    margin-left: 65%;
-    margin-top: 250px;
-    color: white;
-}
-#kopje2
-{
-    float: left;
-    position: absolute;
-    margin-left: 169px;
-    margin-top: 600px;
-    color: white;
-}
